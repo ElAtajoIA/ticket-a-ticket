@@ -1,0 +1,33 @@
+{
+  "background_color": "#F4F6F2",
+  "description": "Guarda tus tickets, suma tu gasto y mira en qué se va el dinero, por categorías.",
+  "display": "standalone",
+  "icons": [
+    {
+      "purpose": "any",
+      "sizes": "192x192",
+      "src": "pwa-icon-192.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "pwa-icon-512.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "pwa-icon-512-maskable.png",
+      "type": "image/png"
+    }
+  ],
+  "id": "./",
+  "lang": "es",
+  "name": "Ticket a ticket",
+  "orientation": "portrait",
+  "scope": "./",
+  "short_name": "Ticket a ticket",
+  "start_url": "./",
+  "theme_color": "#0E7A5A"
+}

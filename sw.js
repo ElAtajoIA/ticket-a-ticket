@@ -3,7 +3,7 @@
    (display standalone) y que la app abra aunque falle la conexión.
    Solo cachea los ficheros propios de la app: nunca intercepta las
    llamadas a Google (Drive, Gemini), que siempre van directas a la red. */
-var CACHE = "ticket-a-ticket-pwa-v60";
+var CACHE = "ticket-a-ticket-pwa-v61";
 var CORE = [
   "./index.html",
   "./assets/manifest.webmanifest",
